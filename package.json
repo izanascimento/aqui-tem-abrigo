@@ -1,0 +1,23 @@
+{
+  "name": "aquitemabrigo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+
+  "scripts": {
+    "dev": "node server.js"
+  },
+
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
